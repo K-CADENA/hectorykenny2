@@ -8,7 +8,7 @@ max-width:calc(900px);
 font-size: 25px;
 font-style:oblique;
 color: rgb(2, 72, 85);
-text-align:left;
+text-align:justify;
 align-content:center;
 margin:0 auto ;
 }
@@ -19,17 +19,17 @@ margin:0 auto;
 
 .caja{
     text-align:center;
-    color:rgb(6, 98, 126);
+    color:rgb(230, 80, 21);
     font-style: italic;
 font-size:40px;
-max-width:calc(1870px);
-padding:30px;
+max-width:calc(1935px);
+padding:5px;
 content:normal;
 border:0px;
-background-color: rgb(15, 190, 190);    
+background-color:rgb(31, 28, 22);    
 }
 .left{
-max-width:calc(1870px);
+max-width:calc(1935px);
 }
 .TITLE1{
 font-size:30px;
@@ -44,4 +44,9 @@ color:rgb(6, 98, 126);
 .TITLE3{font-size:30px;
     font-style:italic;
     color:rgb(6, 98, 126);}
+    
+.image{
+    align-content:center;
+margin:0 auto ;
+}
 
