@@ -1,28 +1,47 @@
 
 body {
-    border-color: rgb(158, 9, 9);
-    color
+        height:1400px;
+        margin:0;
 }
-
-h1 {
-text-align:start;
-text-align:left;
-text-align:end;
-    color: rgba(19, 133, 153, 0.76);
-    font-style: italic;
-font-size:60px;
-}
-
 .box{
-max-width:calc(1400px) ;
+max-width:calc(900px);
 font-size: 25px;
 font-style:oblique;
 color: rgb(2, 72, 85);
+text-align:left;
+align-content:center;
+margin:0 auto ;
 }
 .vertical{
-    text-align: right;
-max-width:calc(1000px);
--moz-box-align: end;
+max-width: calc(900px);
+margin:0 auto;
 }
-    
+
+.caja{
+    text-align:center;
+    color:rgb(6, 98, 126);
+    font-style: italic;
+font-size:40px;
+max-width:calc(1870px);
+padding:30px;
+content:normal;
+border:0px;
+background-color: rgb(15, 190, 190);    
+}
+.left{
+max-width:calc(1870px);
+}
+.TITLE1{
+font-size:30px;
+font-style:italic;
+color:rgb(6, 98, 126);
+}
+.TITLE2{
+    font-size:30px;
+    font-style:italic;
+    color:rgb(6, 98, 126);
+}
+.TITLE3{font-size:30px;
+    font-style:italic;
+    color:rgb(6, 98, 126);}
 
