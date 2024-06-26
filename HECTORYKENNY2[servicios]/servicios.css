@@ -1,0 +1,41 @@
+body{
+    margin: 0;
+}
+
+.caja{
+    text-align:center;
+    color:rgb(230, 80, 21);
+    font-style: italic;
+font-size:40px;
+padding:20px;
+content:normal;
+border:0px;
+background-color:rgb(31, 28, 22);    
+}
+
+.right{
+    float: right;
+}
+
+.left{
+    float: left;
+}
+
+.TITLE1{
+    font-size:30px;
+    font-style:italic;
+    color:rgb(6, 98, 126);
+    }
+
+.center{
+    text-align: center;
+align-content:center;
+}
+
+.texto {
+    font-size: 25px;
+    font-style:oblique;
+    color: rgb(2, 72, 85);
+    text-align:justify;
+    max-width:calc(900px);
+}
