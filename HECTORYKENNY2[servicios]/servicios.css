@@ -6,11 +6,11 @@ body{
     text-align:center;
     color:rgb(230, 80, 21);
     font-style: italic;
-font-size:40px;
-padding:20px;
-content:normal;
-border:0px;
-background-color:rgb(31, 28, 22);    
+    font-size:40px;
+    padding:20px;
+    content:normal;
+    border:0px;
+    background-color:rgb(31, 28, 22);    
 }
 
 .right{
@@ -29,13 +29,29 @@ background-color:rgb(31, 28, 22);
 
 .center{
     text-align: center;
-align-content:center;
+    align-content:center;
 }
 
-.texto {
+.texto1 {
     font-size: 25px;
     font-style:oblique;
     color: rgb(2, 72, 85);
     text-align:justify;
-    max-width:calc(900px);
+    max-width:calc(600px);
+    margin-left: 100px;
 }
+
+.texto2 {
+    font-size: 25px;
+    font-style:oblique;
+    color: rgb(2, 72, 85);
+    text-align:justify;
+
+}
+
+.box{
+    max-width:calc(1400px);
+    margin:0 auto ;
+    text-align: justify;
+    align-content:center;
+    }
